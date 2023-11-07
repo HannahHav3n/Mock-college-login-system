@@ -1,5 +1,5 @@
 # Simple login system for a mock college
-> *Also encrypts the data in AES CBC 16 bit encryption\n*
+> *Also encodes the data in base64\n*
 
 I was thinking that making a login system might be a fun little chllenge so I decided to make this.
 The project will consist of a folder with the txt files for each member and the main file will check 
