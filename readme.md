@@ -18,3 +18,5 @@ This is the directory that stores all the files with the students data inside\
 ```Docs.txt```
 This will include documentation for the project.
 
+# Notice
+Check out the newer version @ https://github.com/HannahHav3n/Coffee-login-panel
