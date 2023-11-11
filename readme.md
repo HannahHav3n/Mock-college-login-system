@@ -9,7 +9,7 @@ the data input by the user against the data in the database folder.
 Step 1. Run the python file\
 Step 2. Choose Register or Login and input R for register or L for login in the input area\
 Step 3. If you chose Register input the information asked, If you choosed Login input your password and username that you input into your file\
-Step 4. If your login is succesful it will say Logged in\
+Step 4. If your login is succesful it will say Logged in
 
 # Random things
 
